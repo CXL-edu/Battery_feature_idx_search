@@ -4,10 +4,6 @@
 
 [Download Flowchart PDF file](fig/BO_feature.pdf)
 
-<div align=center><img src="fig/BO_feature.svg"/></div>
-
-<img src="fig/BO_feature.svg" alt="flowchart">
-
 <div align=center><img src="fig/BO_feature.png"/></div>
 
 # Battery Datasets
